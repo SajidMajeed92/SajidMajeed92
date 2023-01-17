@@ -1,6 +1,7 @@
 ### Hi! I'm Sajid Majeed, Data Scientist & Machine Learning Engineer 💻
 **Python Developer | Data Science Enthusiast | Programmer**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMajeed92)](https://github.com/SajidMajeed92/github-readme-stats)
 
 
 <!--
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMajeed92&theme=github_dark&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SajidMajeed92)
 
 
 
