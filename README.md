@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers
 - 🙌 Goals: Participate in more Open Source projects.
--->
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMajeed92&theme=github_dark&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMajeed92)](https://github.com/SajidMajeed92/github-readme-stats)
 
 
  
