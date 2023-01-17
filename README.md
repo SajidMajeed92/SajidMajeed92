@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers
 - 🙌 Goals: Participate in more Open Source projects.
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
+- 📫 How to reach me: [https://www.linkedin.com/in/sajid-majeed/](google.com)
+ <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
