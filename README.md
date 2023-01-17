@@ -1,7 +1,7 @@
-
+<p align="center">
 ### Hi! I'm Sajid Majeed, Data Scientist & Machine Learning Engineer 💻
 **Python Developer | Data Science Enthusiast | Programmer**
-
+</p>
 <!--
 **SajidMajeed92/SajidMajeed92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
