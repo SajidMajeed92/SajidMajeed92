@@ -1,4 +1,4 @@
-### Hi! I'm Sajid Majeed, Data Scientist & Machine Learning Engineer👋 
+### Hi! I'm Sajid Majeed, Data Scientist & Machine Learning Engineer 💻
 **Python Developer | Data Science Enthusiast | Programmer**
 
 
@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers
 - 🙌 Goals: Participate in more Open Source projects.
-
- <!--
-- 📫 How to reach me:
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMajeed92&theme=github_dark&show_icons=true)
 
  
