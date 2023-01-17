@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 </p>
 
 ### :fire: My Stats :
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMajeed92&theme=github_dark&show_icons=true) 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SajidMajeed92&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMajeed92&theme=github_dark&show_icons=true)![GitHub Streak](https://streak-stats.demolab.com/?user=SajidMajeed92&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMajeed92)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMajeed92)
+
+
 
 
 
