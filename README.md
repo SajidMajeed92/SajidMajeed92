@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🙌 Goals: Participate in more Open Source projects.
 
 
-- 📫 How to reach me: [https://www.linkedin.com/in/sajid-majeed/](google.com)
+- 📫 How to reach me: [https://www.linkedin.com/in/sajid-majeed](google.com)
  <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
