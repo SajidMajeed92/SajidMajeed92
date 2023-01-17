@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭  I’m currently researching and experimenting on Machine Learning and Data Science Algorithms
+- 🔭  I’m currently researching and experimenting on Machine Learning and Data Science 
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers
 - 🙌 Goals: Participate in more Open Source projects.
