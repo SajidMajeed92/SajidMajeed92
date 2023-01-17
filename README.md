@@ -1,4 +1,4 @@
-### Hi! I'm *Sajid Majeed*, Data Scientist & Machine Learning Engineer👋 
+### Hi! I'm Sajid Majeed, Data Scientist & Machine Learning Engineer👋 
 **Python Developer | Data Science Enthusiast | Programmer**
 
 
